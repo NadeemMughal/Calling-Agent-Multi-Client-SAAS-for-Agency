@@ -24,7 +24,7 @@ Scalable SaaS voice agent serving multiple clients (e.g., barbers, salons). Uses
 - One agent handles many businesses intelligently
 
 ## Demo
-Refer to the attached `project_demo.pdf` for multi-client routing, barber booking flow, n8n nodes, and Supabase setup.
+Refer to the attached `Multi-Client SaaS Voice Agent.pdf` for multi-client routing, barber booking flow, n8n nodes, and Supabase setup.
 
 ## License
 MIT
