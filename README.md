@@ -12,7 +12,7 @@ Scalable SaaS voice agent serving multiple clients (e.g., barbers, salons). Uses
 
 ## Tech Stack
 - **Voice Agent**: Retell AI
-- **Routing & Workflows**: n8n + Supabase
+- **Routing & Workflows**: n8n + Supabase 
 - **CRM**: Google Calendar (expandable)
 
 ## Setup Instructions
