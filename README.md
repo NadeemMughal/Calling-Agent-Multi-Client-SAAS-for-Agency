@@ -17,7 +17,7 @@ Scalable SaaS voice agent serving multiple clients (e.g., barbers, salons). Uses
 
 ## Setup Instructions
 1. Add clients to Supabase with credentials.
-2. Configure Retell AI agent with knowledge base.
+2. Configure Retell AI agent with knowledge base. 
 3. Set client ID routing in n8n.
 
 ## Usage
